@@ -1,14 +1,10 @@
 {
-  "136325321":[{
-    "user":"ched#5046",
-    "access":true
-  }],
-  "176124016":[{
-    "user":"boxrum#idk",
-    "access":true
-  }],
-  "1529670993":[{
-    "user":"STVNLAR#6666",
-    "access":true
-  }]
+  "ched":true,
+  "136325321":true,
+  
+  "boxrum#idk":true,
+  "176124016":true,
+
+  "STVNLAR#6666":true,
+  "1529670993":true
 }
